@@ -5,7 +5,7 @@ Full dexcription available here https://www.jetbrains.com/ru-ru/academy/
 
 You can find my profile https://hyperskill.org/profile/235960166
 
-**List of covered topics:**\
+**List of covered topics:**
 * Introduction to Python
 * Overview of the basic program
 * Multi-line programs
