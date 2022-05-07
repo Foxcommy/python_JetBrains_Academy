@@ -33,4 +33,4 @@ M / M\
 *Do you want to store the result? (y / n):*\
 n\
 *Do you want to continue calculations? (y / n):*\
-n\
+n
